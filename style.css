@@ -1,0 +1,73 @@
+/*inex and others*/
+body{
+background-color: antiquewhite;
+margin: autho;
+  }
+
+  footer{
+ text-align:center; 
+padding:10px;
+ position: fixed; 
+left:0px; 
+bottom:0px; 
+height:30px; 
+  width:100%; 
+background-color:bisque;
+  
+ }
+ .container{
+        text-align: center;
+ }
+ .container .link{
+        background-color:rgb(255, 222, 173);
+        border-radius: 10px;
+ }
+     /*injera and others*/
+    
+.describe{
+width: 45%;
+padding: 20px;
+float:left;                        
+}
+.recipes{   
+width:48% ;
+  float: right;
+ padding: 20px;
+                        
+}
+
+a{
+padding: 10px;
+text-decoration: none;
+font-size: large;
+ }
+a:hover{
+color: blue;
+                        
+ }                    
+#head1{
+text-align: center;
+                  
+}
+p{
+text-align: justify;
+}
+/*doro and others*/
+                                        
+img{
+margin-top: 20px;
+width:100%;
+height: 200%;
+border-radius: 10px;
+                     
+}
+.production{
+float: inline-start; 
+margin-left: 20px;
+                  
+}
+  
+  h1{
+ text-align: center;
+  }
+              
