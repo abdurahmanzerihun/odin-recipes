@@ -1,6 +1,6 @@
 /*inex and others*/
 body{
-background-color: antiquewhite;
+background-color: rgb(251, 203, 159);
 margin: autho;
   }
 
@@ -17,10 +17,17 @@ background-color:bisque;
  }
  .container{
         text-align: center;
+         padding: 20px;
+        margin-bottom: 10px;
  }
- .container .link{
-        background-color:rgb(255, 222, 173);
-        border-radius: 10px;
+  
+ .indexlink1{
+background-color: rgb(239, 181, 110);
+border-radius: 10px;
+ }
+ .indexlink2{
+  background-color: rgb(239, 181, 110);
+    border-radius: 10px;
  }
      /*injera and others*/
     
